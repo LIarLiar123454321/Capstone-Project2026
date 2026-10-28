@@ -1,0 +1,15 @@
+# Capstone-Project2026
+
+## 動態生活規劃助理
+
+本專題使用 LLM、Multi-Agent 與排程最佳化技術，開發能動態調整個人行程的智慧助理。
+
+## 開發技術
+- Python 3.12
+- FastAPI
+- OR-Tools / CP-SAT
+- Android Studio / Kotlin
+- GitHub
+
+## 團隊合作
+五位組員共同開發，透過 GitHub 管理程式碼。
