@@ -14,3 +14,14 @@ __pycache__/
 .gradle/
 local.properties
 **/build/
+#暫時檔案
+#Python 虛擬環境
+.venv/
+venv/
+#Python 快取
+pycache/
+*.py[cod]
+#環境變數與API金鑰
+.env
+#VS code 設定檔
+.vscode/
