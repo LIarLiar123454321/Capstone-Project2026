@@ -1,0 +1,16 @@
+# Python 虛擬環境
+.venv/
+
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# API 金鑰及環境變數
+.env
+.env.*
+!.env.example
+
+# Android 開發環境
+.gradle/
+local.properties
+**/build/
