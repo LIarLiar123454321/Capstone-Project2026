@@ -1,0 +1,30 @@
+
+# ==================================
+# AI 生活秘書 - Python 後端套件
+# Python 3.12
+# ==================================
+
+# API HTTP 請求
+requests
+
+# 後端 API 服務
+fastapi
+uvicorn
+
+# 即時事件監控與排程
+apscheduler
+
+# API Key 與環境變數管理
+python-dotenv
+
+# SSL 憑證處理
+truststore
+
+# 地理距離計算
+geopy
+
+# API 資料驗證
+pydantic
+
+# 程式測試
+pytest
